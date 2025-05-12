@@ -15,4 +15,5 @@ I'm studying software engineering!
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 
-![snake gif](https://github.com/LHenrique-Marques/LHenrique-Marques/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LHenrique-Marques/LHenrique-Marques/blob/output/github-contribution-grid-snake.svg)
+
