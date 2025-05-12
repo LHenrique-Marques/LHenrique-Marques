@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/jS2na2FuWakUE/giphy.gif" width="100%" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmMyeHJodXd2dXczaXI3MHFzN3FzMmM1am1ybm9uZzFsbWZ3MG84dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frSfC5NcmyF7q/giphy.gif" width="100%" />
 
 ### Hello, I'm Henrique Marques 👋
 
