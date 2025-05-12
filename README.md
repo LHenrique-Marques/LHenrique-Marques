@@ -1,16 +1,18 @@
-## Hi there 👋
+<img align="center" src="https://github.com/LHenrique-Marques/LHenrique-Marques/assets/IMAGEM" />
 
-<!--
-**LHenrique-Marques/LHenrique-Marques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Henrique Marques 👋
 
-Here are some ideas to get you started:
+I'm studying software engineering!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/luis-henrique-marques-franque-flores-508ba126b)
+
+---
+
+### 🛠️ Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+
+![snake gif](https://github.com/LHenrique-Marques/LHenrique-Marques/blob/output/github-contribution-grid-snake.svg)
