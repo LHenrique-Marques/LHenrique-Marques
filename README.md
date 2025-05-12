@@ -14,6 +14,6 @@ I'm studying software engineering!
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-
+My contributions:
 ![Snake animation](https://github.com/LHenrique-Marques/LHenrique-Marques/blob/output/github-contribution-grid-snake.svg)
 
