@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/LHenrique-Marques/LHenrique-Marques/assets/IMAGEM" />
+<img src="https://media.giphy.com/media/jS2na2FuWakUE/giphy.gif" width="100%" />
 
 ### Hello, I'm Henrique Marques 👋
 
