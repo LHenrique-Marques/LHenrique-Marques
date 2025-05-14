@@ -6,7 +6,7 @@
 🚀 Interessado em Inteligência Artificial, APIs modernas e desenvolvimento web
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/luis-henrique-marques-franque-flores-508ba126b)
-[![Portfolio](https://img.shields.io/badge/Portfólio-2D3748?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gamma-eight-31.vercel.app)
+[![Portfolio](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://portfolio-gamma-eight-31.vercel.app)
 
 ---
 
