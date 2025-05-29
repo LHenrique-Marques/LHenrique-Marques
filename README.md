@@ -5,7 +5,7 @@
 💻 Desenvolvendo o projeto RightChoiceAI com foco em backend usando NestJS, MySQL, Prisma e autenticação JWT  
 🚀 Interessado em Inteligência Artificial, APIs modernas e desenvolvimento web
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://www.linkedin.com/in/luis-henrique-marques-franque-flores-508ba126b](https://www.linkedin.com/in/luis-henrique-marques-508ba126b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/luis-henrique-marques-508ba126b/)
 [![Portfolio](https://img.shields.io/badge/Portfólio-blue?logo=Portfolio)](https://portfolio-gamma-eight-31.vercel.app)
 
 ---
